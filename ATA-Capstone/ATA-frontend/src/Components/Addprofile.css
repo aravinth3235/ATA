@@ -1,0 +1,18 @@
+.profile-form {
+  display: flex;
+
+  justify-content: center;
+}
+
+.profile-form div {
+  margin: "20px 10px";
+}
+
+.profileform1 {
+  margin-right: 20px;
+}
+
+.profilesd label {
+  font-weight: bolder;
+  font-size: larger;
+}

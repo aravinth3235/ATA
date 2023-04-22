@@ -1,0 +1,11 @@
+.form-addadmin label,
+input,
+button {
+  margin: 10px;
+  padding: 2px;
+}
+
+.form-addadmin button {
+  width: 200px;
+  margin-top: 25px;
+}
